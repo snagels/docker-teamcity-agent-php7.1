@@ -1,4 +1,4 @@
-FROM atlassian/bamboo-base-agent:latest
+FROM sjoerdmulder/teamcity-agent:latest
 
 MAINTAINER Sebastian Nagels <nagels.sebastian@gmail.com>
 
